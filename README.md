@@ -1,11 +1,11 @@
 # Setup
 
 Install the dependencies
-```posh
+```powershell
 npm install
 ```
 
 Run the project
-```posh
+```powershell
 npm run dev
 ```
